@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate on web site developer and machine learning
 - 💬 Ask me about Anime, Game and Movie
 
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <!--
 **nandawawank/nandawawank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
