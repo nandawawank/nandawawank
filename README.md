@@ -12,7 +12,5 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=nandawawank&show_icons=true&include_all_commits=true)](https://github.com/nandawawank/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandawawank&layout=compact)](https://github.com/nandawawank/github-readme-stats)
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<!--
-**nandawawank/nandawawank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
