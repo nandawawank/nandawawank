@@ -4,7 +4,9 @@
 - 👯 I’m looking to collaborate on web site developer and machine learning
 - 💬 Ask me about Anime, Game and Movie
 
-## Contact with me:
+## Think i code with
+
+## Contact with me
 [![Gmail Badge](https://img.shields.io/badge/-nandawawank@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nandawawank@gmail.com)](mailto:nandawawank@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-nandawawank-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandawawank/)](https://www.linkedin.com/in/nandawawank/) [![Github Badge](https://img.shields.io/badge/-nandawawank-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nandawawank/)](https://www.github.com/nandawawank/) <p align='left'>Code with coffe!</p>
 ## Some of my Github Stats
