@@ -1,11 +1,13 @@
-### About me
-- 🔭 I’m currently working on outsource in Telkomsel under PT.Immobi Sulition Prima as Software Enginner
-- 🌱 I’m currently learning docker, machine learning, redis, java and elasticsearch
-- 👯 I’m looking to collaborate on web site developer and machine learning
-- 💬 Ask me about Anime, Game and Movie
--->
+<h1 align="center">Hi Everyone!</h1>
 
-### Things i code
+### About me:
+- 🔭 I'm currently working **...**
+- 🌱 I’m currently learning **RabbitMQ, Redis, Go**
+- 🎯 Next Targets **Typescript, NestJS**
+- 💬 Ask me about **....**
+- 📫 How to reach me **nandawawank@gmail.com**
+
+### Things i code:
 <p>
  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
@@ -23,14 +25,16 @@
  <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
- 
-## Contact with me
-[![Gmail Badge](https://img.shields.io/badge/-nandawawank@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nandawawank@gmail.com)](mailto:nandawawank@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-nandawawank-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nandawawank/)](https://www.linkedin.com/in/nandawawank/) [![Github Badge](https://img.shields.io/badge/-nandawawank-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nandawawank/)](https://www.github.com/nandawawank/) <p align='left'>Code with coffe!</p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=nandawawank alt=nandawawank /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=nandawawank&show_icons=true&include_all_commits=true)](https://github.com/nandawawank/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandawawank&layout=compact)](https://github.com/nandawawank/github-readme-stats)
+### My Github Stats: 
+<p>
+ <img src="https://github-readme-stats.vercel.app/api?username=nandawawank&show_icons=true&theme=vue-dark&line_height=27" alt="nandawawank" />
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=nandawawank&show_icons=true&hide=css,html&theme=vue-dark">
+</p>
+ 
+### Connect with me:
+<p align="left">
+ <a href="https://linkedin.com/in/nandawawank" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rizkysamp" height="30" width="30" /></a>
+</p>
 
 
