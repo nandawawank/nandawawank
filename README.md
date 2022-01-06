@@ -1,7 +1,7 @@
 <h1 align="left">Hi Everyone!</h1>
 
 ### About me:
-- 🔭 I'm currently working **...**
+- 🔭 I'm currently working **Backend Developer at Terralogiq**
 - 🌱 I’m currently learning **Typescript, NestJS**
 - 🎯 Next Targets **??**
 - 💬 Ask me about **....**
