@@ -2,8 +2,8 @@
 
 ### About me:
 - 🔭 I'm currently working **...**
-- 🌱 I’m currently learning **RabbitMQ, Redis, Go**
-- 🎯 Next Targets **Typescript, NestJS**
+- 🌱 I’m currently learning **Typescript, NestJS**
+- 🎯 Next Targets **??**
 - 💬 Ask me about **....**
 - 📫 How to reach me **nandawawank@gmail.com**
 
