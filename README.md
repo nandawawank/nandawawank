@@ -2,9 +2,9 @@
 
 ### About me:
 - 🔭 I'm currently working **Backend Developer at Terralogiq**
-- 🌱 I’m currently learning **Typescript, NestJS**
-- 🎯 Next Targets **??**
-- 💬 Ask me about **....**
+- 🌱 I’m currently learning **Hapi.js**
+- 🎯 Next Targets **Blockchain**
+- 💬 Ask me about **Anime and Movie**
 - 📫 How to reach me **nandawawank@gmail.com**
 
 ### Things i code:
