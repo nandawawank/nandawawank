@@ -2,8 +2,7 @@
 
 ### About me:
 - 🔭 I'm currently working **Backend Developer at Terralogiq**
-- 🌱 I’m currently learning **Hapi.js**
-- 🎯 Next Targets **Blockchain and Web3**
+- 🌱 I’m currently learning **Golang and Rabbitmq**
 - 💬 Ask me about **Anime and Movie**
 - 📫 How to reach me **nandawawank@gmail.com**
 
